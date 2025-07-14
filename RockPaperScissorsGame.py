@@ -9,13 +9,6 @@ game = True
 play1 = randint(0, 5)
 play2 = randint(0, 5)
 
-#captalize(input)
-if(play1 == play2):
-    print("404: Page Not Found")
-    game = False
-else:
-    print("Congrats! Your game didn't glitch this time!")
-    print("\nLet's play rock, paper, scissors!\n")
 while(game):
     choice = str.lower(input("Pick Rock, Paper, or Scissors. "))
     compChoice = random.choice(["Rock", "Paper", "Scissors"])
