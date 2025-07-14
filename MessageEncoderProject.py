@@ -1,4 +1,5 @@
 from random import randint
+##At some point we should add more compications - like random placement for the key and chnage up the order of letters, numbers, etc.
 def encode():
     
     letters1 = []
