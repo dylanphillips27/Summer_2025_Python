@@ -2,7 +2,7 @@
 
 1. ATM-Project
 
-  This is a fun, fake ATM machine I desgined. When you start, your account gets some random amount of fake money. You can depsoit more fake money into your account, or withdraw some fake money from your account. You also have to enter a PIN at the beggining to acess your account, and the PIN is 1234. There are also some other features, like the ability for the ATM to deposit a fake check, or the feature that putting the PIN in backwards locks you out and pretneds to call the police. Overall, this is just a fun little project with lots of different aspects, and is pretty fun to play with
+  This is a fun, fake ATM machine. When you start, your account gets some random amount of fake money. You can depsoit more fake money into your account, or withdraw some fake money from your account. You also have to enter a PIN at the beggining to acess your account, and the PIN is 1234. There are also some other features, like the ability for the ATM to deposit a fake check, or the feature that putting the PIN in backwards locks you out and pretneds to call the police. Overall, this is just a fun little project with lots of different aspects, and is pretty fun to play with
 
 2. MessageEncoderProject
 
