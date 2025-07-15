@@ -26,11 +26,11 @@
 
 **COMING UPDATES**
 
-*MessageEncoderProject.py*
+***MessageEncoderProject.py***
 
   Coming updates to this file include your being able to use this in a loop, and adding more advanced encryption
 
-*TemperatureConverter.py*
+***TemperatureConverter.py***
 
   Coming updates consist of adding a mroe freeform and easier interface for conversions, and including all possible combinations
 
