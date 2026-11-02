@@ -18,22 +18,11 @@
 
 **5. TemperatureConverter.py**
 
-  This temperature converter converts temperature in either Kelvin, Farenheit, or Celsius into another form of temperature. You have to chose which conversion you like and input the starting number. You also cannot input a number that is not possible (ex. inputting -1 for the temperature in Kelvin).
+  This temperature converter converts temperature in either Kelvin, Farenheit, or Celsius into another form of temperature. You have to chose which conversion you like and input the starting number. It is also designed so that you cannot input a number that is not possible (ex. inputting -1 for the temperature in Kelvin).
 
 **6. TicTacToeGame.py**
 
   This is a game where you play tic tac toe against another player on a matrix made of nested lists. X is player 1 and O is player 2. You take turns playing the game, and can win in any of the eight possible win conditions, or you can tie. The computer can also keep track of wins for each player and total ties for as many rounds as you play for.
-
-**COMING UPDATES**
-
-***MessageEncoderProject.py***
-
-  Coming updates to this file include your being able to use this in a loop, and adding more advanced encryption
-
-***TemperatureConverter.py***
-
-  Coming updates consist of adding a mroe freeform and easier interface for conversions, and including all possible combinations
-
 
 
 
